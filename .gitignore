@@ -1,0 +1,17 @@
+logs/access.log
+logs/error.log
+nbproject/project.properties
+nbproject/project.xml
+nbproject/configs/MyConf_EDGE.properties
+nbproject/private/config.properties
+nbproject/private/private.properties
+nbproject/private/private.xml
+nbproject/private/configs/MyConf_EDGE.properties
+old_www/index.php
+www/config/__autocomplete.php
+www/config/console.php
+www/config/db.php
+www/config/params.php
+www/config/test_db.php
+www/config/test.php
+www/config/web.php
