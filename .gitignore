@@ -1,0 +1,10 @@
+logs/access.log
+logs/error.log
+nbproject/project.properties
+nbproject/project.xml
+nbproject/configs/MyConf_EDGE.properties
+nbproject/private/config.properties
+nbproject/private/private.properties
+nbproject/private/private.xml
+nbproject/private/configs/MyConf_EDGE.properties
+old_www/index.php
